@@ -7,8 +7,7 @@ Chuhan Zhang, Guillaume Le Moing, Skanda Koppula, Ignacio Rocco, Liliane Momeni,
 
 會議：IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026，2026 年 6 月 3 日至 7 日，Colorado Convention Center, Denver, Colorado, United States。
 
-報告人：第 17 組　廖晢勛、林威宇  
-指導教授：陳仁暉老師
+報告人：第 17 組　廖晢勛、林威宇
 
 ## 官方連結
 
@@ -21,7 +20,7 @@ Chuhan Zhang, Guillaume Le Moing, Skanda Koppula, Ignacio Rocco, Liliane Momeni,
 
 - `D4RT_報告教學.md`、`D4RT_報告教學.pdf`：約 15 分鐘報告講義，含白話說明、14 頁講稿、可能被問到的題目，以及中英名詞對照
 - `D4RT_簡報.pptx`、`D4RT_簡報.pdf`：14 頁簡報；口語講稿寫在備註欄
-- [`simple/`](simple/)：**簡化版**（12 頁、約 12 分鐘＋問答），內容有簡報、口語講稿和助教可能會問的題目
+- [`slides/`](slides/)：12 分鐘版的 11 頁投影片和講稿
 - `d4rt_guide_figs/`：從論文裁下的圖與表格，方便對稿
 
 ## 圖表出處
